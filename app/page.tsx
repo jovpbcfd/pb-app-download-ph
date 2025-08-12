@@ -8,19 +8,19 @@ export default function Home() {
       {/* mobile */}
       <div className="py-4 md:hidden">
         <h1 className="text-white uppercase font-[900] text-xl text-center">
-          Download the panalobet app onto your phone today
+          I-download na ang Panalobet app sa iyong cellphone ngayon!
         </h1>
         <p className="mt-2 text-[#ffcc00] text-md italic text-center font-bold uppercase">
-          download now and enjoy
+          I-download at mag-enjoy
         </p>
       </div>
       {/* web */}
       <div className="hidden my-10 md:block">
         <h1 className="text-white uppercase font-[900] text-[38px]/10 text-center">
-          Download our panalobet mobile app today
+          I-download ang Panalobet Mobile App ngayon
         </h1>
         <p className="mt-2 text-3xl text-[#ffcc00] text-md italic text-center font-bold uppercase">
-          experience the thrill with panalobet
+          Maranasan ang saya kasama ang Panalobet!
         </p>
       </div>
       <Download />
@@ -37,17 +37,17 @@ export default function Home() {
           </div>
           <div className="w-[50%] text-white text-center">
             <p className="font-bold text-[26px] text-pretty mb-5">
-              Join Millions of Players and enjoy endless array of games that we
-              offer at your fingertips!
+              Sumali sa milyun-milyong manlalaro at mag-enjoy sa walang katapusang mga laro na nasa iyong mga kamay!
             </p>
             <p className="font-bold text-[26px] text-pretty">
-              Exciting rewards everyday! Play for fun and win bing.
+              Kapana-panabik na Premyo Araw-araw!
+              Maglaro para mag-enjoy at manalo ng malaki!
             </p>
           </div>
         </div>
         <div className="mt-5">
           <h2 className="text-[#ffcc00] text-center uppercase text-[36px]/10 font-[900] text-pretty">
-            download panalobet mobile app now and start playing today!
+            Magdownload ng Panalobet Mobile App at simulan ang paglalaro ngayon!
           </h2>
           <div className="flex items-center justify-center mt-15 gap-10">
             <div className="flex flex-col items-center">
@@ -92,7 +92,7 @@ export default function Home() {
         </div>
         <div className="mt-10 flex items-center justify-center pb-10">
           <Image
-            src="/img/webiste_lower.png"
+            src="/img/webiste_lower_TL.png"
             width={0}
             height={0}
             alt="Step 3"

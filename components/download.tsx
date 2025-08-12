@@ -58,7 +58,7 @@ export default function Download() {
                   <h3 className="pt-5 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">1</span>
                     <span className="text-md text-balance">
-                      Launch the Safari app on your IOS Device and go to
+                      Buksan ang Safari app sa iyong iOS device at pumunta sa:
                       <Link
                         href="https://jk6.co/CPE6s7"
                         className="block text-[#ffcc00]"
@@ -72,8 +72,8 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">2</span>
                     <span className="text-md">
-                      Press the &quot;
-                      <span className="font-semibold">SHARE</span>&quot; button.
+                      Pindutin ang button na &quot;
+                      <span className="font-semibold">SHARE</span>&quot;.
                     </span>
                   </h3>
                   <div className="rounded-md">
@@ -91,7 +91,7 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">3</span>
                     <span className="text-md">
-                      Select &quot;
+                      Piliin ang &quot;
                       <span className="font-semibold">Add to Home Screen</span>
                       &quot;.
                     </span>
@@ -111,8 +111,8 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">4</span>
                     <span className="text-md">
-                      Press &quot;<span className="font-semibold">Add</span>
-                      &quot; Button.
+                      Pindutin ang button na &quot;<span className="font-semibold">Add</span>
+                      &quot;.
                     </span>
                   </h3>
                   <div className="rounded-md">
@@ -130,7 +130,7 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">5</span>
                     <span className="text-md">
-                      Enjoy playing with Panalobet by simply clicking the app.
+                      Mag-enjoy sa paglalaro gamit ang Panalobet sa pamamagitan ng simpleng pag-click sa app.
                     </span>
                   </h3>
                 </div>

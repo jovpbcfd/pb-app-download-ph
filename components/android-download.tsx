@@ -13,7 +13,7 @@ export default function AndroidDownload() {
             <h3 className="py-5 flex items-center gap-2">
               <span className="text-[#ffcc00] font-bold text-2xl">1</span>
               <span className="text-md">
-                Copy and Paste the link on Google.
+                Kopyahin at i-paste ang link sa Google.
               </span>
             </h3>
             <div className="rounded-md">
@@ -31,14 +31,14 @@ export default function AndroidDownload() {
             <h3 className="py-4 flex items-center gap-2 leading-5">
               <span className="text-[#ffcc00] font-bold text-2xl">2</span>
               <span className="text-md">
-                You will find the Download App Page
+                Makikita mo ang pahina ng pag-download ng app.
               </span>
             </h3>
           </div>
           <div>
             <h3 className="pb-5 flex items-center gap-2 leading-5">
               <span className="text-[#ffcc00] font-bold text-2xl">3</span>
-              <span className="text-md">Click Install.</span>
+              <span className="text-md">I-click ang Install.</span>
             </h3>
             <div className="rounded-md mb-2">
               <Image
