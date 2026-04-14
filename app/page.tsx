@@ -71,11 +71,11 @@ export default function Home() {
             </div>
             <div className="flex flex-col items-center">
               <Image
-                src="/img/QR_IOS.png"
+                src="/img/QR_Panalobet_ios.webp"
                 width={300}
                 height={300}
                 alt="QR Android"
-                className="mb-5"
+                className="mb-5 rounded-xl border-4 border-yellow-400"
               />
               <Link href="https://jk6.co/CPE6s7">
                 <Image
