@@ -77,7 +77,7 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5 rounded-xl border-4 border-yellow-400"
               />
-              <Link href="https://jk6.co/CPE6s7">
+              <Link href="https://pb888.me/uJ8U73">
                 <Image
                   src="/img/iosbutton.png"
                   width={400}
